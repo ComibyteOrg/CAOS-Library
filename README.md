@@ -9,6 +9,10 @@ A lightweight, compiled JavaScript library for adding smooth animations to eleme
 - **Cross-Browser Support**: Works seamlessly across all modern browsers.
 - **Responsive**: Fully compatible with mobile and desktop devices.
 
+## Clone Repository 
+git clone https://github.com/ComibyteOrg/CAOS-Library.git
+
+cd CAOS Library 
 
 ## Browser Support
 - Chrome, Firefox, Safari, Edge, and IE11+.
